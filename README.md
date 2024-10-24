@@ -1,7 +1,7 @@
 # ARFit
 <img width="674" alt="ARFit" src="https://github.com/user-attachments/assets/fc503cc7-e56c-47c9-85d5-761702ebdaf7">
 
-The Fitness App is an all-in-one solution for users looking to improve their fitness and health. It offers curated exercise plans, diet plans, and augmented reality (AR) viewing of workouts to help users maintain proper form. With features catering to all ages and fitness levels (beginner, intermediate, and pro), the app is designed to make fitness accessible and affordable for everyone.
+ARFit is an all-in-one solution for users looking to improve their fitness and health. It offers curated exercise plans, diet plans, and augmented reality (AR) viewing of workouts to help users maintain proper form. With features catering to all ages and fitness levels (beginner, intermediate, and pro), the app is designed to make fitness accessible and affordable for everyone.
 
 ## Features
 
@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community! To contribute to the Fitness App:
+We welcome contributions from the community! To contribute to the ARFit:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
